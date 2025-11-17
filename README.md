@@ -1,59 +1,76 @@
-# NgLab
+# 🌟 ng-lab  
+**Repositorio personal de prácticas, ejercicios y experimentos con Angular y tecnologías relacionadas.**
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
+[![Angular](https://img.shields.io/badge/Angular-v1-red?logo=angular&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript&logoColor=white)]()
+[![Node](https://img.shields.io/badge/Node.js-18-green?logo=node.js&logoColor=white)]()
+[![License](https://img.shields.io/badge/Code%20Lab-Personal-purple)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yolanda_Camarasa-blue?logo=linkedin)](https://www.linkedin.com/in/y-c-c/)
 
-## Development server
+---
 
-To start a local development server, run:
+## 🎯 Objetivo del proyecto
+**ng-lab** es un entorno de laboratorio donde puedo experimentar libremente con:
 
-```bash
-ng serve
-```
+- Angular (componentes, routing, RxJS, standalone…)
+- Patrones de arquitectura y buenas prácticas
+- Librerías UI (Material, Tailwind, PrimeNG…)
+- Accesibilidad, rendimiento y animaciones
+- Prácticas de Git (branches, conflictos, rebases…)
+- Integración con APIs y pruebas unitarias
+- Cualquier tecnología o idea que quiera explorar
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+> Este espacio está pensado para aprender, romper, refactorizar y mejorar continuamente.
 
-## Code scaffolding
+---
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+## 🧰 Tecnologías principales
 
-```bash
-ng generate component component-name
-```
+- **Angular**
+- **TypeScript**
+- **RxJS**
+- **HTML5 / CSS3 / SCSS**
+- **Git & GitHub**
+- **Material / Tailwind / PrimeNG** 
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+---
 
-```bash
-ng generate --help
-```
+## 🖥️ Instalación y ejecución
 
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
+Clonar el repositorio:
 
 ```bash
-ng e2e
+git clone https://github.com/tuusuario/ng-lab.git
+cd ng-lab
 ```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+Instalar dependencias:
 
-## Additional Resources
+```bash
+npm install
+```
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Ejecutar el entorno de desarrollo:
+
+```bash
+ng serve -o
+```
+
+🗂️ Estructura del proyecto
+
+```bash
+ng-lab/
+ ├── src/
+ │   ├── app/
+ │   └── assets/
+ ├── README.md
+ └── ...
+```
+
+🤝 Contacto   
+Si quieres ver más sobre mi trabajo o conectar:
+
+🔗 [LinkedIn: Yolanda Camarasa](https://www.linkedin.com/in/y-c-c/)
+
+💬 Contribuciones    
+Este es un repositorio personal, pero siempre es bien recibida cualquier sugerencia mediante issues o pull requests.
