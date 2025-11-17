@@ -16,6 +16,10 @@ export const routes: Routes = [
     path: 'angular',
     component: AngularCourseComponent,
   },
+    {
+    path: 'rxjs',
+    component: AngularCourseComponent,
+  },
   {
     path: '**',
     redirectTo: '',

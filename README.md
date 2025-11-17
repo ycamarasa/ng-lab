@@ -1,7 +1,7 @@
 # 🌟 ng-lab  
 **Repositorio personal de prácticas, ejercicios y experimentos con Angular y tecnologías relacionadas.**
 
-[![Angular](https://img.shields.io/badge/Angular-v1-red?logo=angular&logoColor=white)]()
+[![Angular](https://img.shields.io/badge/Angular-v19-red?logo=angular&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript&logoColor=white)]()
 [![Node](https://img.shields.io/badge/Node.js-18-green?logo=node.js&logoColor=white)]()
 [![License](https://img.shields.io/badge/Code%20Lab-Personal-purple)]()
@@ -67,6 +67,8 @@ ng-lab/
  │   │   └── pages/
  │   │       ├── angular-course 
  │   │       ├── git-course
+ │   │       ├── rxjs-course
+ │   │       │   ├──
  │   │       └── homepage
  │   └── assets/
  ├── README.md
