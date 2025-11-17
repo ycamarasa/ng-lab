@@ -62,6 +62,9 @@ ng serve -o
 ng-lab/
  ├── src/
  │   ├── app/
+ │   │   ├── components/
+ │   │   │   └── header     
+ │   │   └── git-course/
  │   └── assets/
  ├── README.md
  └── ...
