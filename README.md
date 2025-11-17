@@ -64,7 +64,10 @@ ng-lab/
  │   ├── app/
  │   │   ├── components/
  │   │   │   └── header     
- │   │   └── git-course/
+ │   │   └── pages/
+ │   │       ├── angular-course 
+ │   │       ├── git-course
+ │   │       └── homepage
  │   └── assets/
  ├── README.md
  └── ...
