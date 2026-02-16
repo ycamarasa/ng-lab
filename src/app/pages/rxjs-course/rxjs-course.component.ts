@@ -5,7 +5,8 @@ import { Component } from '@angular/core';
   imports: [],
   templateUrl: './rxjs-course.component.html',
   styleUrl: './rxjs-course.component.scss',
+  host: {
+    class: 'layout',
+  },
 })
-export class RxjsCourseComponent {
-
-}
+export class RxjsCourseComponent {}

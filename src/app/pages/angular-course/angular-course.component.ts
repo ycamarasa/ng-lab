@@ -5,7 +5,8 @@ import { Component } from '@angular/core';
   imports: [],
   templateUrl: './angular-course.component.html',
   styleUrl: './angular-course.component.scss',
+  host: {
+    class: 'layout',
+  },
 })
-export class AngularCourseComponent {
-
-}
+export class AngularCourseComponent {}
